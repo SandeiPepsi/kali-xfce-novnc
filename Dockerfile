@@ -1,4 +1,4 @@
-FROM kalilinux/kali-linux-docker
+FROM kalilinux/kali-rolling
 
 ADD novnc.sh /root/novnc.sh
 
